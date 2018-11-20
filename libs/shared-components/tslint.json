@@ -1,0 +1,12 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "pet-adoption-system",
+      "camelCase"
+    ],
+    "component-selector": [true, "element", "pet-adoption-system", "kebab-case"]
+  }
+}

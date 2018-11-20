@@ -16,6 +16,9 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@pet-adoption-system/shared-components": [
+        "libs/shared-components/src/index.ts"
+      ]
     }
   },
   "exclude": [
